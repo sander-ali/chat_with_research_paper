@@ -11,7 +11,7 @@ import time
 import PyPDF2
 
 # --- Configuration ---
-genai.configure(api_key="AIzaSyAmKJP6jnY-pzKTTy2QecEXhL-MvZ4rO2o")
+genai.configure(api_key="Paste your API here")
 
 # Gemini Model initialization
 MODEL_NAME = 'gemini-1.5-pro-001'
