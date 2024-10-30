@@ -5,6 +5,16 @@ For the testing purposes we have used the paper on Google Gemini itself, which c
 
 In order to run this code locally, you will need an API key from Google Gemini that can be obtained by visiting and signing up at the link (here)[https://aistudio.google.com/app/apikey]
 
+For using the code locally, install the following packages. 
+
+- Streamlit
+- pypdf
+- google-generativeai
+
+Once installed, you can run the code locally by running the following command:
+
+streamlit run test.py
+
 Snapshots of some of the results obtained with the code is attached herewith.
 
 ![image](https://github.com/user-attachments/assets/64228046-8c18-40b7-a4ac-bc8ed50071e4)
